@@ -1,0 +1,4 @@
+garminexport[impersonate_browser]
+garmin-fit-sdk
+python-dotenv
+schedule
